@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/bd5f9afbb87e452086d1f1790539243d/artifacts
+end_time: 1726771622591
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bd5f9afbb87e452086d1f1790539243d
+run_name: Logistic_Regression_Model
+run_uuid: bd5f9afbb87e452086d1f1790539243d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726771620998
+status: 4
+tags: []
+user_id: carlène Tungamwese
